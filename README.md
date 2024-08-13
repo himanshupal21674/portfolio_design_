@@ -7,5 +7,5 @@ Hello
   profession: "Developer"
 }
 
-<p> Here I developer responsive portfolio template.</p>
+<p> Here I develop a responsive portfolio template.</p>
 
